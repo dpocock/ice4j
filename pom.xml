@@ -6,7 +6,7 @@
 
   <groupId>org.opentelecoms.ice</groupId>
   <artifactId>ice4j-fork</artifactId>
-  <version>1.0+f.3</version>
+  <version>1.0+f.4</version>
   <packaging>jar</packaging>
 
   <name>ice4j</name>
